@@ -1,2 +1,7 @@
+https://github.com/typesense/typesense-js
+
 https://recipe-search.typesense.org/?r%5Bquery%5D=Sizzler
+
 https://github.com/typesense/typesense-instantsearch-adapter/issues/89
+
+https://github.com/typesense/showcase-guitar-chords-search-vanilla-js/blob/991b8eda250560b32bd0940c3fa43a19d0b3297b/scripts/indexTypesense.ts
