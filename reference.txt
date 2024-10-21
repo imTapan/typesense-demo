@@ -1,0 +1,2 @@
+https://recipe-search.typesense.org/?r%5Bquery%5D=Sizzler
+https://github.com/typesense/typesense-instantsearch-adapter/issues/89
